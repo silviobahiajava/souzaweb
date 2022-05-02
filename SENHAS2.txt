@@ -1,0 +1,58 @@
+http://localhost:8080/clientes/index
+javadev treinamento
+login souzawebti@hotmail.com
+senha 168579@dls
+
+Udemy
+login souzawebti@hotmail.com
+senha 168579
+
+b7web
+https://alunos.b7web.com.br/
+login souzawebti@hotmail.com
+senha 123456
+
+mysql
+usuario root
+senha 123456
+porta 3307
+
+youtube silvio bahia
+login silviobahiaelouvor@gmail.com
+senha 168579@dls
+
+
+login souzawebti@hotmail.com
+senha 975861@sld  ou 168579#Dls
+
+souzamatheusfelipe1@gmail.com
+123456smf
+
+
+lojas americanas
+souzawebti@hotmail.com
+BahiaPrBrasil@168579
+
+   http://localhost:8080/souzawebsistemas/slidefoto3
+/js/jquery-3.6.0.min.js
+
+https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&
+
+response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=7122f9e3-279e-53b7-8ca2-7536a74763b2&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=637865312645682911.03aef345-5394-403a-8468-5c75892df432&state=DYu9CsIwGAATfRe32Px9aTIUB0U61KUKSrekSaHFUklDxbc3wx3ccBghtM_sMphmoVKJUisQjCsJSnPD2JEKGwYhgYAwksicREulCfQlaMP9IAXH-b0Uy9cWpzXZFCp2iMGPMfTpsVS2bmlf31TzM5t_tavjJjazmbv5PXV3mBynm3teP-6s_w
+
+
+
+
+linkedin
+login souzawebti@hotmail.com	
+senha 168579@dls
+
+
+
+spring.datasource.url=jdbc:mysql://localhost:3308/empresa?createDatabaseIfNotExist=true
+spring.datasource.username=root
+spring.datasource.password=123456
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.open-in-view=true
+spring.jpa.hibernate.use-new-id-generator-mappings = false
